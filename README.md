@@ -15,15 +15,15 @@
 
 ![heatmap](heatmap.png)
 
+- The heatmap shows strong alignment between predicted and ground-truth classes, indicating the model’s ability to generalize effectively.
+
 # Libraries Used
-- import pickle
-- import pandas as pd
-- import numpy as np
-- import seaborn as sns
-- import matplotlib.pyplot as plt
-- import random
-- from keras.models import Sequential
-- from keras.layers import Conv2D, AveragePooling2D, Flatten, Dense
+- Pandas – for data handling and manipulation.
+- NumPy – for numerical operations and array processing.
+- Matplotlib & Seaborn – for data visualization and plotting training results.
+- Pickle – for saving and loading data or models.
+- Random – for sampling random images from the dataset.
+- Keras – for building and training the CNN using the LeNet architecture.
 
 
 #  Training Details
