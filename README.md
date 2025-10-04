@@ -1,4 +1,4 @@
-# teach autonomous vehicles how to recognize and respond to signs accurately.
+# Teach autonomous vehicles how to recognize and respond to signs accurately.
 
 # Training vs. validation accuracy over epochs
 
